@@ -1,6 +1,6 @@
 # Jandal
 
-<img align="right" width="256px" height="256px" src="https://cdn.rawgit.com/csMACnz/Jandal/master/Resources/jandal.svg">
+<img align="right" width="256px" height="256px" src="https://cdn.jsdelivr.net/gh/csMACnz/Jandal/Resources/jandal.svg">
 
 You can't handle the Jandal.
 
